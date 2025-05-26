@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hey, I’m Raheem 👋 (aka Redoxx)
 
-<!--
-**R4heem-Orekoya/R4heem-Orekoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer focused on building clean, responsive, and user-friendly interfaces using modern web tech — mostly React, Next.js, and Tailwind.
 
-Here are some ideas to get you started:
+I care about:
+- ✨ Thoughtful UX
+- 🧼 Clean architecture
+- 🎯 Small details that elevate user experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m:
+- 🛠️ Working on personal and freelance projects
+- 🔍 Always learning and refining my frontend workflow
+- 🧪 Exploring design patterns and performance best practices
+
+---
+
+### 🔧 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,prisma,postgres,git,vercel)](https://skillicons.dev)
+
+
+---
+
+### 📫 Let’s Connect
+- Portfolio: [redoxx.vercel.app](https://redoxx.vercel.app)
+- Twitter: [@Redoxx_Code](https://twitter.com/Redoxx_Code)
+- LinkedIn: [Raheem on LinkedIn](https://www.linkedin.com/in/babatunde-orekoya-aa5a252b7/)
