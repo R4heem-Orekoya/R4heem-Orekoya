@@ -21,6 +21,6 @@ Right now, I’m:
 ---
 
 ### 📫 Let’s Connect
-- Portfolio: [redoxx.vercel.app](https://redoxx.vercel.app)
+- Portfolio: [raheemorekoya.me](https://raheemorekoya.me)
 - Twitter: [@Redoxx_Code](https://twitter.com/Redoxx_Code)
 - LinkedIn: [Raheem on LinkedIn](https://www.linkedin.com/in/babatunde-orekoya-aa5a252b7/)
